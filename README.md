@@ -10,3 +10,4 @@ The Legend of Zelda Trivia Game
 3. need to confirm if sound is correctly formated 
 4. need to confirm if background images are in correct order 
 5. Do you still want to add Navi gif? Maybe we can add at end when reporting final tallies ? 
+6. **** Noticed some gramatical errors after just pushing new version, need to double check spelling , grammar **** 
