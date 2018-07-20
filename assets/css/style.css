@@ -1,0 +1,125 @@
+/* 
+
+font-family: 'Shadows Into Light', cursive;
+font-family: 'Cormorant Unicase', serif;
+font-family: 'Rokkitt', serif;
+font-family: 'Rajdhani', sans-serif;
+font-family: 'Cuprum', sans-serif; */
+body{
+    width: 100%;
+    height: 100%;
+    margin: auto;
+    background-image: url("../images/zelda-startpage.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+    background-attachment: fixed;
+    font-family: 'Shadows Into Light', cursive;
+}
+
+.background{
+    background-image: url("../images/zelda-startpage.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+    background-attachment: fixed;
+    z-index: -1;
+    
+}
+
+
+
+
+#heading {
+    MARGIN-TOP: 100PX;
+    margin-left: 269px;
+    vertical-align: middle;
+    border-style: none;
+    width: 51%;
+    height: 20%;
+}
+
+.container{
+    margin: auto;
+}
+
+button{
+    background-color: blue;
+    width: 120px;
+    height: 50px;
+    margin: 20px, auto;
+
+}
+
+.btn{
+    background-color: rgba(0, 0, 0, .5);
+    width: 400px;
+    height: 70px;
+    margin: auto;
+    margin-top: 10px;
+    color: white;
+    font-size: 2.5rem;
+    border: 1px solid red;
+    border-radius: 25px;
+
+}
+
+.question{
+    color: green;
+    height: 100px;
+    margin: auto;
+}
+
+
+
+#time{
+    margin: auto;
+    margin-top: 15PX;
+    color: black;
+    font-family: 'Rajdhani', sans-serif;
+    text-transform: uppercase;
+    font-size: 3rem;
+}
+
+#question{
+    margin: auto;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 2.5rem;
+    color: white;
+    background-color:  rgba(0, 0, 0, .5);
+    padding: 10px;
+    /* margin-top: 10px; */
+}
+
+button#start.btn{
+    background-color: rgba(0, 0, 0, .5);
+    color: white;
+    font-family: 'Shadows Into Light', cursive;
+    text-transform: uppercase;
+    height: 60px;
+    width: 450px;
+    margin-left: auto;
+    margin-top: 60px;
+    font-size: 2.5rem;
+    padding: 0px;
+}
+
+#imgresponse{
+    height: 100%;
+    margin-left: 375px;
+    margin-top: 37px;
+    background-color: rgba(250, 250, 250, .5);
+    font-size: 2rem;
+    text-align: center;
+    padding: 5px;
+}
+
+img#wimg{
+    height: 40%;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 20px;
+    background-color: rgba(250, 250, 250, .5);
+    padding: 20px;
+
+}
