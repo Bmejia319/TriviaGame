@@ -89,7 +89,7 @@ $(document).ready(function() {
 		$('#answer3').show().html(qaArray[currentIndex].answers[3]);
 		$('#imgresponse').hide().off('click');
  
-    $('.background').animate({ opacity: 0}, 1000, function() {
+ $('<body>').animate({ opacity: 0}, 1000, function() {
         $('.background').css("background-image", "url('" + qaArra[currentIndex].backgrd + "')").animate({opacity: 1},1000);
     });
 		onClickAnswer();
