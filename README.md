@@ -1,7 +1,12 @@
 # TriviaGame
 
-- Added javascript game function , buttons, questions, answers 
+The Legend of Zelda Trivia Game 
 
-*** background changes not working, need to adjust. 
-temporarily commented out background function - need to input background change w/in game start question function 
--added background images as an array within background object 
+- Added sound 
+-added rotating background images 
+
+1. need to decided which image you prefer for "incorrect" answer 
+2. need to confirm all color / styling  
+3. need to confirm if sound is correctly formated 
+4. need to confirm if background images are in correct order 
+5. Do you still want to add Navi gif? Maybe we can add at end when reporting final tallies ? 
